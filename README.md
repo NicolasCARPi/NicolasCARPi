@@ -7,4 +7,5 @@ My main project is [eLabFTW](https://github.com/elabftw/elabftw), a free electro
 You can support my work by becoming a [GitHub Sponsor](https://github.com/sponsors/NicolasCARPi/) or through [Liberapay](https://liberapay.com/NicolasCARPi/).
 
 Cheers,
+
 ~Nico
